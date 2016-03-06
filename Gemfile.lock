@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gist (4.5.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gist
+
+BUNDLED WITH
+   1.11.2
